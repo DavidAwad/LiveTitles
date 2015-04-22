@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/david/Desktop/gdk-waveform-sampleNEW/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="footer_bottom_margin">29px</dimen>
+    <dimen name="footer_right_margin">40px</dimen>
+    <!-- From: file:/Users/david/Desktop/gdk-waveform-sampleNEW/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">Waveform</string>
+    <string name="decibel_format">%1$.1f dB</string>
+    <string name="show_me_a_demo">Fuck Bitches Get Money</string>
+</resources>
